@@ -1,2 +1,3 @@
-# hello-worls
+# hello-world
+
 primul meu repository
